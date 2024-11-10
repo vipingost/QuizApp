@@ -1,0 +1,23 @@
+.result{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+.rs{
+   width:fit-content;
+    background-color:white;
+    box-shadow: 0 0 10px 10px white;
+   
+}
+
+.result p{
+    font-size: 40px;
+}
+.result button{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+}
